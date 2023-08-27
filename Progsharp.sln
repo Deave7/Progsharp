@@ -3,27 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift 1.1", "Progsharp\Uppgift 1.1.csproj", "{084F6306-014D-452B-ACEE-9CEC02AF2790}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift 1.1", "Progsharp\Uppgift 1.1.csproj", "{084F6306-014D-452B-ACEE-9CEC02AF2790}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift 1.2", "Uppgift 1.2\Uppgift 1.2.csproj", "{FDCE941B-C91C-4AE8-9A3A-460BFC19F891}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift 1.2", "Uppgift 1.2\Uppgift 1.2.csproj", "{FDCE941B-C91C-4AE8-9A3A-460BFC19F891}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift 1.3", "Övning 1.3\Uppgift 1.3.csproj", "{1F2D93B8-4739-4878-AE19-27757AC5F82B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift 1.3", "Övning 1.3\Uppgift 1.3.csproj", "{1F2D93B8-4739-4878-AE19-27757AC5F82B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift 1.4", "Övning 1.4\Uppgift 1.4.csproj", "{812E3072-4B56-43FD-AE16-46E804575093}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift 1.4", "Övning 1.4\Uppgift 1.4.csproj", "{812E3072-4B56-43FD-AE16-46E804575093}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift 1.5", "Övning 1.5\Uppgift 1.5.csproj", "{FEBB8E8C-5E93-422B-B66C-39E16B108A38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift 1.5", "Övning 1.5\Uppgift 1.5.csproj", "{FEBB8E8C-5E93-422B-B66C-39E16B108A38}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift 1.6", "Övning 1.6\Uppgift 1.6.csproj", "{462816D5-1533-454F-AB94-558DEBF29F32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift 1.6", "Övning 1.6\Uppgift 1.6.csproj", "{462816D5-1533-454F-AB94-558DEBF29F32}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift 1.7", "Övning 1.7\Uppgift 1.7.csproj", "{DC195A86-9394-4450-A239-5091C0292219}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift 1.7", "Övning 1.7\Uppgift 1.7.csproj", "{DC195A86-9394-4450-A239-5091C0292219}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift 2.1", "Uppgift 2.1\Uppgift 2.1.csproj", "{EC6D44EC-85C9-4D9E-8A51-414C8B39D315}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift 2.1", "Uppgift 2.1\Uppgift 2.1.csproj", "{EC6D44EC-85C9-4D9E-8A51-414C8B39D315}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift 2.2", "Uppgift 2.2\Uppgift 2.2.csproj", "{A35FB84B-6883-4CA1-BC8E-AC06120F37EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift 2.2", "Uppgift 2.2\Uppgift 2.2.csproj", "{A35FB84B-6883-4CA1-BC8E-AC06120F37EB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift 2.3", "Uppgift 2.3\Uppgift 2.3.csproj", "{AB9D33CD-DDF2-4DC4-8206-077B92210103}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift 2.3", "Uppgift 2.3\Uppgift 2.3.csproj", "{AB9D33CD-DDF2-4DC4-8206-077B92210103}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift 2.4", "Uppgift 2.4\Uppgift 2.4.csproj", "{12A61DF8-2FF3-4C79-A243-CB19F9431347}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift 2.4", "Uppgift 2.4\Uppgift 2.4.csproj", "{12A61DF8-2FF3-4C79-A243-CB19F9431347}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift 2.5", "Uppgift 2.5\Uppgift 2.5.csproj", "{40B0218D-5322-4CDD-A402-D261B4166216}"
 EndProject
